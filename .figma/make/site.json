@@ -1,0 +1,14 @@
+{
+  "title": "BatteryLens AI",
+  "description": "This AI-driven mobile app empowers users to monitor battery performance, detect anomalies, and receive personalized insights for optimal charging and usage.",
+  "icons": {
+    "icon": "/batterylens-icon.svg"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
